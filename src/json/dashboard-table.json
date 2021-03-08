@@ -1,0 +1,124 @@
+[
+  {
+    "province": {
+      "code": "mpt",
+      "name": "Maputo",
+      "region": "Asia"
+    },
+    "members": [
+      "/images/faces/w5.png",
+      "/images/faces/w1.png",
+      "/images/faces/m1.png",
+      "/images/faces/m8.png"
+    ],
+    "progress": {
+      "color": "bg-indigo-500",
+      "value": 83
+    },
+    "population": 3012400
+  },
+  {
+    "province": {
+      "code": "mpt",
+      "name": "Matola",
+      "region": "Asia"
+    },
+    "members": [
+      "/images/faces/w9.png",
+      "/images/faces/w4.png",
+      "/images/faces/w2.png",
+      "/images/faces/m6.png"
+    ],
+    "progress": {
+      "color": "bg-purple-500",
+      "value": 71
+    },
+    "population": 20000
+  },
+  {
+    "province": {
+      "code": "bei",
+      "name": "Beira",
+      "region": "Asia"
+    },
+    "members": [
+      "/images/faces/m6.png",
+      "/images/faces/w8.png",
+      "/images/faces/m8.png"
+    ],
+    "progress": {
+      "color": "bg-blue-500",
+      "value": 45
+    },
+    "population": 45012
+  },
+  {
+    "province": {
+      "code": "nac",
+      "name": "Nacala",
+      "region": "Asia"
+    },
+    "members": [
+      "/images/faces/m2.png",
+      "/images/faces/m5.png",
+      "/images/faces/m1.png",
+      "/images/faces/w5.png"
+    ],
+    "progress": {
+      "color": "bg-purple-500",
+      "value": 60
+    },
+    "population": 12045
+  },
+  {
+    "province": {
+      "code": "xai",
+      "name": "Xai-Xai",
+      "region": "Asia"
+    },
+    "members": [
+      "/images/faces/m1.png",
+      "/images/faces/w1.png",
+      "/images/faces/m7.png"
+    ],
+    "progress": {
+      "color": "bg-red-500",
+      "value": 55
+    },
+    "population": 213012
+  },
+  {
+    "province": {
+      "code": "tete",
+      "name": "Tete",
+      "region": "Europe"
+    },
+    "members": [
+      "/images/faces/m8.png",
+      "/images/faces/w8.png",
+      "/images/faces/m2.png"
+    ],
+    "progress": {
+      "color": "bg-red-500",
+      "value": 82
+    },
+    "population": 41000
+  },
+  {
+    "province": {
+      "code": "inh",
+      "name": "Inhambane",
+      "region": "Europe"
+    },
+    "members": [
+      "/images/faces/m8.png",
+      "/images/faces/w8.png",
+      "/images/faces/m2.png"
+    ],
+    "progress": {
+      "color": "bg-red-500",
+      "value": 65
+    },
+    "population": 21000
+  }
+]

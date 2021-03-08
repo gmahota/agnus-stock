@@ -22,7 +22,7 @@
       "next-env.d.ts",
       "**/*.ts",
       "**/*.tsx"
-, "next.config.js"    ],
+, "next.config.js", "src/reducers/dashboard.js", "src/reducers/navigation.js"    ],
     "exclude": [
       "node_modules"
     ]

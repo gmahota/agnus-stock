@@ -1,0 +1,74 @@
+[
+  {
+    "code": "mz",
+    "name": "Maputo Cidade",
+    "amount": 605,
+    "percent": 41,
+    "label": "new",
+    "color": "yellow"
+  },
+  {
+    "code": "mt",
+    "name": "Maputo Provincia",
+    "amount": 428,
+    "percent": 51,
+    "label": "important",
+    "color": "orange"
+  },
+  {
+    "code": "ss",
+    "name": "Sofala",
+    "amount": 585,
+    "percent": 80,
+    "label": "active",
+    "color": "green"
+  },
+  {
+    "code": "np",
+    "name": "Nampula",
+    "amount": 416,
+    "percent": 78,
+    "label": "new",
+    "color": "purple"
+  },
+  {
+    "code": "gz",
+    "name": "Gaza",
+    "amount": 709,
+    "percent": 89,
+    "label": "great",
+    "color": "pink"
+  },
+  {
+    "code": "tete",
+    "name": "Tete",
+    "amount": 583,
+    "percent": 68,
+    "label": "great",
+    "color": "green"
+  },
+  {
+    "code": "cd",
+    "name": "Cabo Delegado",
+    "amount": 235,
+    "percent": 74,
+    "label": "great",
+    "color": "blue"
+  },
+  {
+    "code": "ni",
+    "name": "Niassa",
+    "amount": 196,
+    "percent": 55,
+    "label": "great",
+    "color": "red"
+  },
+  {
+    "code": "mc",
+    "name": "Manica",
+    "amount": 287,
+    "percent": 40,
+    "label": "great",
+    "color": "purple"
+  }
+]
